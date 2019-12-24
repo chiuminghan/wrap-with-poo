@@ -1,11 +1,12 @@
 {
   "name": "wrap-with-poo",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package will wrap any string you give it with the poop emoji",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Chiuming Han",
+  "license": "MIT",
+  "homepage": "https://github.com/chiuminghan/wrap-with-poo"
 }
